@@ -5,15 +5,16 @@
     <string name="app_title">Localisation</string>
     <string name="content_title">OS Android</string>
     <string name="main_content">
-        Android est un système d'exploitation mobile basé sur une version modifiée du noyau Linux et
-        d'autres logiciels open source, conçus principalement pour les appareils mobiles à écran tactile tels que les smartphones
+        Android est un système d\'exploitation mobile basé sur une version modifiée du noyau Linux et
+        d\'autres logiciels open source, conçus principalement pour les appareils mobiles à écran tactile tels que les smartphones
         et tablettes. Android est développé par un consortium de développeurs appelé Open Handset Alliance,
         Google est le principal contributeur et commercial. Initialement développé par Android Inc.,
         que Google a acheté en 2005, Android a été dévoilé en 2007, avec le premier appareil Android commercial
         lancé en septembre 2008. La version stable actuelle est Android 10, sortie le 3 septembre 2019.
-        Le code source principal d'Android est connu sous le nom d'Android Open Source Project (AOSP), qui est principalement sous licence
-        sous la licence Apache. Cela a permis de développer des variantes d'Android sur une gamme d'autres appareils électroniques,
+        Le code source principal d\'Android est connu sous le nom d\'Android Open Source Project (AOSP), qui est principalement sous licence
+        sous la licence Apache. Cela a permis de développer des variantes d\'Android sur une gamme d\'autres appareils électroniques,
         tels que les consoles de jeux, les appareils photo numériques, les PC et autres, chacun avec une interface utilisateur spécialisée. Certains bien connus
-        les dérivés incluent Android TV pour les téléviseurs et Wear OS pour les appareils portables, tous deux développés par Google.</string>
-    <string name="main_content_source">Wikipédia https://en.wikipedia.org/wiki/Android_(operating_system)</string>
+        les dérivés incluent Android TV pour les téléviseurs et Wear OS pour les appareils portables, tous deux développés par Google.
+    </string>
+    <string name="main_content_source">Wikipedia https://en.wikipedia.org/wiki/Android_(operating_system)</string>
 </resources>
